@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : " Srimouli Borusu"
-  avatar           : "https://github.com/srimouli04/srimouli04.github.io/blob/main/assets/images/Image.jpg"
+  avatar           : "/assets/images/Image.jpg"
   bio              : "Programmer, Developer and Aspiring Researcher"
   location         : "Hyderabad, India"
   email            :
