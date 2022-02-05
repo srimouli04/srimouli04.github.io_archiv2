@@ -45,7 +45,7 @@ be used in Super resolution of images
 
 
 
-### Data science and Marketing Research Intern  <img src="https://srimouli04.github.io/images/iiml.png" alt="Drawing" width="120" height="50" align="right"/>
+### Data science and Marketing Research Intern  <img src="https://srimouli04.github.io/assests/images/iiml.png" alt="Drawing" width="120" height="50" align="right"/>
 
 Internship <br />
 *Indian Institute of Management, Lucknow India* \| June 2015,2016<br>
