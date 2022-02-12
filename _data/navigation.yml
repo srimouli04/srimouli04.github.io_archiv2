@@ -12,7 +12,7 @@ main:
 #    url: posts/
   - title: "Achievements"
     url: achievements/
-  - title: "Resume"
+  - title: "Resum"
     url: assets/Resumes/Srimouli_Resume.pdf
   - title: "Contact"
     url: contact/
