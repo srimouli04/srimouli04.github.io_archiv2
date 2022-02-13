@@ -17,6 +17,12 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
+### Emotion Tagging in Audio Signal using Weakly Supervised Learning | Python - Pytorch | M.Tech Thesis
+* The project aims at detecting human emotions Angry, Happy, Surprise, Disgust, Neutral, Fear, Sad associated with audio signal.
+* The project employs Auto Encoder and CNN architecture.
+* Datasets SAVEE, RAVDEES, CREMA-D and TESS were used.
+
+
 ### Chatterbox | Spring, AngularJS, Typescript, MongoDB, Kafka, Docker
 * The application allows to communicate with instant messages across communities, individual users
 * Developed a full-stack web application using Spring boot serving a REST API with Angular as the frontend
