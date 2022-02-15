@@ -21,7 +21,7 @@ feature:
 * The project aims at detecting human emotions Angry, Happy, Surprise, Disgust, Neutral, Fear, Sad associated with audio signal.
 * The project employs Auto Encoder and CNN architecture.
 * Datasets SAVEE, RAVDEES, CREMA-D and TESS were used.
-[Thesis](assets\pdfs\Srimouli_Borusu_Mtech_Thesis.pdf) [Presentation](assets\pdfs\Dissertation Presentation.pdf)
+[[Thesis]](\assets\pdfs\Srimouli_Borusu_Mtech_Thesis.pdf) [[Presentation]](\assets\pdfs\Dissertation Presentation.pdf)
 
 
 ### Chatterbox | Spring, AngularJS, Typescript, MongoDB, Kafka, Docker
