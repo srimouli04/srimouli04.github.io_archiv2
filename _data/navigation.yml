@@ -8,8 +8,8 @@ main:
     url: work/
   - title: "Projects"
     url: projects/
-#  - title: "Posts"
-#    url: posts/
+  - title: "Posts"
+    url: posts/
   - title: "Achievements"
     url: achievements/
   - title: "Resume"
