@@ -24,7 +24,9 @@ header-includes: |
 It's critical to understand prediction mistakes whenever we talk about model prediction (bias and variance). The capacity of a model to minimise bias and variation is subject to a tradeoff. Gaining a good comprehension of these inaccuracies will assist us not just in developing correct models, but also in eliminating the errors of overfitting and underfitting.
 
 Machine learning models are a powerful tool for making predictions based on data. However, as the famous statistician George Box once said, "All models are wrong, but some are useful." One of the key concepts in understanding how to make a model useful is the bias-variance tradeoff.
-
+{:refdef: style="text-align: center;"}
+![Bias Variance Trade-off](\assets\images\Blog_posts\Bias_variance tradeoff\bv tradeoff.png)
+{: refdef}
 # What is Bias?
 Bias refers to the difference between the predicted values of a model and the true values. Mathematically, we can express this as:
 

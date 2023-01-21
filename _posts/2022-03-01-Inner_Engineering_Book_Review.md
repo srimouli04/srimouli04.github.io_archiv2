@@ -7,7 +7,7 @@ toc: False
 toc_label : Table of contents
 toc_icon: "list"
 canonical_url: "https://srimouli04.github.io/Inner_Engineering_Book_Review"
-excerpt: "The pros and cons of bias and variance trade off"
+excerpt: "Learnings I enjoyed from the book"
 toc_sticky : false
 ---
 Thanks for reading this post. 
